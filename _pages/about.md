@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+* * *
 
 Hi all! I am Yuhan Ni, a psychometrician, now working at [School of Education Science](https://edu.ahnu.edu.cn/), [Anhui Normal University](https://www.ahnu.edu.cn/). My research interest includes psychometrics, elderly aging, and people analytics.
 
