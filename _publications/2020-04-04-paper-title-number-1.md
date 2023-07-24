@@ -1,8 +1,8 @@
 ---
-title: "The need to belong: A parallel process latent growth curve model of late life negative affect and cognitive function"
+title: "The need to belong: A parallelf process latent growth curve model of late life negative affect and cognitive function"
 collection: publications
 permalink: /publications/2020-04-04-paper-title-number-1
-excerpt: 'A parallel process latent growth curve model was used in late life negative affect and cognitive decline.'
+excerpt: 'Longitudinal relationship between late life negative affect and cognitive decline.'
 date: 2020-04-04
 venue: 'Archives of gerontology and geriatrics'
 ---
