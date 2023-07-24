@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yuhan Ni (Johnni)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi all! I am Yuhan Ni (Johnni), a psychometrician, now working at [School of Education Science](https://edu.ahnu.edu.cn/)), [Anhui Normal University](https://www.ahnu.edu.cn/). My research interest includes psychometrics, elderly aging, people analytics.
+Hi all! I am Yuhan Ni, a psychometrician, now working at [School of Education Science](https://edu.ahnu.edu.cn/)), [Anhui Normal University](https://www.ahnu.edu.cn/). My research interest includes psychometrics, elderly aging, people analytics.
 
 I got my B.S. in psychology, M.A. in psychometrics, and Ph.D. degree in psychology from [School of Psychology](https://psy.scnu.edu.cn/), South China Normal University (2010~2020),advised by Prof. Minqiang Zhang. And I worked on people analytics in Bytedance from 2021 to 2023.
 
