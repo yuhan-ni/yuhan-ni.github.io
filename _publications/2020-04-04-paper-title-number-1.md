@@ -2,7 +2,7 @@
 title: "The need to belong: A parallelf process latent growth curve model of late life negative affect and cognitive function"
 collection: publications
 permalink: /publications/2020-04-04-paper-title-number-1
-excerpt: 'Longitudinal relationship between late life negative affect and cognitive decline.'
+excerpt: 'This paper explored the longitudinal relationship between late life negative affect and cognitive decline.'
 date: 2020-04-04
 venue: 'Archives of gerontology and geriatrics'
 ---
@@ -11,4 +11,4 @@ venue: 'Archives of gerontology and geriatrics'
 
 
 
-Recommended citation: Ni, Y., Tein, J. Y., Zhang, M., Zhen, F., Huang, F., Huang, Y., ... & Mei, J. (2020). The need to belong: A parallel process latent growth curve model of late life negative affect and cognitive function. <i>Archives of gerontology and geriatrics</i>, 89, 104049. [doi](https://doi.org/10.1016/j.archger.2020.104049) [2022 IF = 4.163]
+Recommended citation: Ni, Y., Tein, J. Y., Zhang, M., Zhen, F., Huang, F., Huang, Y., ... & Mei, J. (2020). The need to belong: A parallel process latent growth curve model of late life negative affect and cognitive function. <i>Archives of gerontology and geriatrics</i>, 89, 104049. [[doi]](https://doi.org/10.1016/j.archger.2020.104049) (2022 IF = 4.163)
