@@ -14,4 +14,4 @@ I got my B.S. in psychology, M.A. in psychometrics, and Ph.D. degree in psycholo
 
 You can find my CV here: [Yuhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:yuhanni@ahnu.edu.cn) /[ResearchGate](https://www.researchgate.net/profile/Yuhan_Ni?ev=hdr_xprf)/[Github](https://github.com/yuhan-ni)
+[Email](mailto:yuhanni@ahnu.edu.cn) /[ResearchGate](https://www.researchgate.net/profile/Yuhan_Ni?ev=hdr_xprf) /[Github](https://github.com/yuhan-ni)
