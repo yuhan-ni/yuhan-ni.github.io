@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuhan Ni / Homepage"
+title                    : "Yuhan Ni Homepage"
 title_separator          : "-"
 name                     : &name "Yuhan Ni"
 description              : &description "a strange person"
