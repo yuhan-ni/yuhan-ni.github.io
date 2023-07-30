@@ -1,7 +1,7 @@
 ---
 title: "Changes in loneliness among elderly people and its effect factors: A latent transition analysis"
 collection: publications
-permalink: /publication/2018-09-15-paper-title-number-3
+permalink: /publications/2018-09-15-paper-title-number-3
 excerpt: 'This study demonstrated a transition pattern in elderly people loneliness with an individual-centered approach.'
 date: 2018-09-15
 venue: 'Acta Psychologica Sinica'
