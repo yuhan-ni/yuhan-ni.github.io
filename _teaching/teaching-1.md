@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c327158c-45e7-4771-b46f-0bbbe3dfb84f)---
+---
 title: "Advanced Psychological Psychometrics (高级心理统计与测量)"
 collection: teaching
 type: "Postgraduate course"
